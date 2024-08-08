@@ -6,9 +6,7 @@ To help prepare content for AI Tour, please use this template repository for org
 5. If you are taking advantage of the static front end site, edit the content in the _config.yml file as needed (specifically the title and description)
 
 
-# [TODO: Insert Session Title]
-
-This repo is intended as a template for Microsoft AI Tour repositories
+# Retrieval Augmented Generation (RAG) on Azure
 
 ## Session Desciption
 
@@ -18,7 +16,11 @@ TODO: Add short description of the session. Please note this description should 
 TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
 
 ## Technology Used
-TODO: Add a list of any technology or software used.
+
+* Azure OpenAI
+* Azure PostgreSQL
+* Azure AI Search
+* Python
 
 ## Additional Resources and Continued Learning
 TODO: If you would like to link the user to further learning, please enter that here.
@@ -29,23 +31,15 @@ TODO: If you would like to link the user to further learning, please enter that 
 | Future Learning 2  | [Link 2](https://www.google.com/) | Learn more about Y |
 
 ## Content Owners
-TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
 <table>
-<tr>
-    <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://github.com/cole-g-johnson.png" width="100px;" alt="Chris Testa-O'Neill
-"/><br />
-        <sub><b>INSERT NAME HERE
-</b></sub></a><br />
-            <a href="https://github.com/cole-g-johnson" title="talk">📢</a> 
+   <tr>
+    <td align="center"><a href="https://developer.microsoft.com/advocates/pamela-fox">
+        <img src="https://developer.microsoft.com/en-us/advocates/media/profiles/pamela-fox.png" width="100px;" alt="Pamela Fox"/><br />
+        <sub><strong>PAMELA FOX</strong></sub></a><br />
+         <a href="https://github.com/pamelafox" title="GitHub profile for Pamela">📢</a> 
     </td>
 </tr></table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
