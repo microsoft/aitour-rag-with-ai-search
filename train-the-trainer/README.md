@@ -1,69 +1,50 @@
-## TODO:
-Update this page as you see fit to properly train a future presenter of your content. A past train the trainer repo is included below for your assitance, but feel free to make any changes.
-
-Note: Please make sure to update any links within the markdown so they point to the correct file.
-
 ## How To Use
 
 Welcome,
 
 We're glad you are here and look forward to your delivery of this amazing content. As an experienced presenter, we know you know HOW to present so this guide will focus on WHAT you need to present. It will provide you a full run-through of the presentation created by the presentation design team. 
 
-Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides and demo instructions &
-code.
+Along with the video of the presentation, this document will link to all the assets you need to successfully present including PowerPoint slides and demo instructions & code.
 
-1.  Read document in its entirety.
-2.  Watch the video presentation
-3.  Ask questions of the Lead Presenter
+## Presentation
 
-## File Summary
+### Powerpoint
 
-| Resources          | Links                            | Description |
-|-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](presentations.md) | Slides |
-| PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
-| Videos            | - [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/84354) | Example Presetations of this Session |
-| Demos             | - [Demo 1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Additional Demo Content | 
-| Demo Recordings           | - [Data10 - Prequisites](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo Live 1 | 
-| Demo Recordings           | - [Data10 - Demo](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4 ) | Recording of the Demo Live 2 | 
+Download the English version of the [Powerpoint Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Faitourassetstore.blob.core.windows.net%2Fassets%2FBRK463%2520Production-ready%2520RAG%2520with%2520Azure%2520AI%2520Search%2FProductionReadyRAGwithAzureAISearch_V1.0.pptx&wdOrigin=BROWSELINK).
+Localized versions will be available soon.
 
-## Get Started
+Speaker notes are available on each slide.
 
-This training repository is divided in to the following sections:
+### Video recording
 
-| [Slides](#slides) | [Demos](demos/README.md) | [Deployment](deployment/README.md) | 
-|-------------------|---------------------------|--------------------------------------
-| 28 slides - 30 minutes| 1 demos - 15 minutes | Demo setup
-
-## Slides
-
-The [slides](presentations.md) have presenter notes in each part of the session
+A video recording will be available by August 31st.
 
 ### Timing
 
-| Time        | Description 
---------------|-------------
-0:00 - 5:00   | Intro to the session 
-5:00 - 15:00  | Why Modern Data Warehousing
-15:00 - 20:00 | Building the Modern data warehouse
-20:00 - 35:00 | Designing a modern data warehouse solution
-35:00 - 40:00 | The evolution of cloud scale analytics
-40:00 - 45:00 | Session review
-
-## Deployment / Preparation
-
->**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
-
-[Instructions and prerequisites are outlined here](deployment/README.md). 
-
+TBD
 
 ## Demos
 
-> **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
+These are the demos that you may choose to do in the presentation. You may leave some out depending on time constraints. 
 
-Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
+### Setup
 
-| Demo 	                                                                                               | Minutes | Video |
--------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 15       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+To be able to show the demos yourself, setup these three repositories:
 
+* **RAG on PostgreSQL**: Follow instructions in [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python)
+* **RAG on AI Search**: Follow deployment instructions in [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo), making sure to enable [the optional vision feature](https://github.com/Azure-Samples/azure-search-openai-demo/blob/main/docs/gpt4v.md)
+* **Python Notebooks**: Follow instructions in [vector-search-demos](https://github.com/pamelafox/vector-search-demos). Note that this repo assumes you've already setup azure-search-openai-demo.
+
+### Transcript
+
+A suggested transcript for each is [available](https://aka.ms/AArw0cd).
+
+### Video recordings
+
+If you'd like, there are videos available for each demo. You can either narrate the silent version of the video, or play the video with audio.
+
+| Demo 	                  | Duration | Video - Silent | Video - Audio |
+--------------------------|----------|---------------- |  ----------- |
+|  1 - RAG on PostgreSQL  | 0:44     | [aka.ms/AArvkvt](https://aitourassetstore.blob.core.windows.net/assets/BRK463%20-%20Production-ready%20RAG%20with%20Azure%20AI%20Search/BRK463%20-%20RAG%20on%20Postgres%20Simple%20-%20Silent_V1.0.mp4) | [aka.ms/AArvskt](https://aitourassetstore.blob.core.windows.net/assets/BRK463%20-%20Production-ready%20RAG%20with%20Azure%20AI%20Search/BRK463%20-%20Postgres%20Simple%20RAG_V1.0.mp4)
+|  2 - Advanced RAG on PostgreSQL | 1:51 | [aka.ms/AArw0cc](https://aitourassetstore.blob.core.windows.net/assets/BRK463%20-%20Production-ready%20RAG%20with%20Azure%20AI%20Search/BRK463%20-%20RAG%20on%20Postgres%20Advanced%20-%20Silent_V1.0.mp4) | [aka.ms/AArvskq](https://aitourassetstore.blob.core.windows.net/assets/BRK463%20-%20Production-ready%20RAG%20with%20Azure%20AI%20Search/BRK463%20-%20Postgres%20Advanced%20RAG_V1.0.mp4)
+|  3 - RAG on AI Search | 0:28 | [aka.ms/AArvskv](https://aitourassetstore.blob.core.windows.net/assets/BRK463%20-%20Production-ready%20RAG%20with%20Azure%20AI%20Search/BRK463%20-%20RAG%20on%20AI%20Search%20-%20Silent_V1.0.mp4) | [aka.ms/AArvsl1](https://aitourassetstore.blob.core.windows.net/assets/BRK463%20-%20Production-ready%20RAG%20with%20Azure%20AI%20Search/BRK463%20-%20RAG%20with%20Azure%20AI%20Search_V1.0.mp4)
