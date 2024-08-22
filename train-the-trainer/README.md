@@ -10,7 +10,7 @@ Along with the video of the presentation, this document will link to all the ass
 
 ### Powerpoint
 
-Download the English version of the [Powerpoint Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Faitourassetstore.blob.core.windows.net%2Fassets%2FBRK463%2520Production-ready%2520RAG%2520with%2520Azure%2520AI%2520Search%2FProductionReadyRAGwithAzureAISearch_V1.0.pptx&wdOrigin=BROWSELINK).
+Download the English version of the Powerpoint Presentation from [aka.ms/AArxlgn](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Faitourassetstore.blob.core.windows.net%2Fassets%2FBRK463%2520Production-ready%2520RAG%2520with%2520Azure%2520AI%2520Search%2FProductionReadyRAGwithAzureAISearch_V1.0.pptx&wdOrigin=BROWSELINK).
 Localized versions will be available soon.
 
 Speaker notes are available on each slide.
