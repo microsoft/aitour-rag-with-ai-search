@@ -17,11 +17,19 @@ Speaker notes are available on each slide.
 
 ### Video recording
 
-A video recording will be available by August 31st.
+[Watch the recording](https://aka.ms/AArzook)
 
 ### Timing
 
-TBD
+| Segment             | Time |
+|---------------------|------|
+| Introduction        | 10:00 |
+| Vectors 101         | 08:00 |
+| Azure AI Search     | 17:00 |
+| Data preparation    | 04:00 |
+| Evaluation          | 03:00 |
+| Securing your RAG   | 02:00 |
+| Conclusion          | 01:00 |
 
 ## Demos
 
