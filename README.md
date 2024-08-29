@@ -1,5 +1,7 @@
 # Production-ready RAG with Azure AI Search
 
+*If you will be delivering this session, consult the [session-delivery-resources](./session-delivery-resources/README.md) guide for slides, demo scripts, and other resources.*
+
 ## Session Desciption
 
 Learn how to build a production-ready Retrieval Augmented Generation (RAG) application to chat over your domain's data with Azure AI Search. Discover the benefits of hybrid search with semantic ranker to find both vector and keyword-based results amongst billions of documents. Explore different approaches to data ingestion, to extract, split, vectorize, and store your data in Azure AI Search. Consider multiple ways to evaluate your RAG app answers, to ensure high-quality responses. Finally, see how you can productionize your RAG app with efficient vector storage, private network deployment, and user authentication.
