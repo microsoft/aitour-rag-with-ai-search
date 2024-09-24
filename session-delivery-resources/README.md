@@ -41,7 +41,7 @@ To be able to show the demos yourself, setup these three repositories:
 
 * **RAG on PostgreSQL**: Follow instructions in [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python)
 * **RAG on AI Search**: Follow deployment instructions in [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo), making sure to enable [the optional vision feature](https://github.com/Azure-Samples/azure-search-openai-demo/blob/main/docs/gpt4v.md)
-* **Python Notebooks**: Follow instructions in [vector-search-demos](https://github.com/pamelafox/vector-search-demos). Note that this repo assumes you've already setup azure-search-openai-demo.
+* **Python Notebooks**: Follow instructions in [rag-with-azure-ai-search-notebooks](https://github.com/Azure-Samples/rag-with-azure-ai-search-notebooks). Note that this repo assumes you've already setup azure-search-openai-demo.
 
 ### Transcript
 
