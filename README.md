@@ -1,4 +1,6 @@
 # Production-ready RAG with Azure AI Search
+[![Azure AI Community Discord](
+https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4?WT.mc_id=aiml-00001-leestott)
 
 *If you will be delivering this session, consult the [session-delivery-resources](./session-delivery-resources/README.md) guide for slides, demo scripts, and other resources.*
 
