@@ -11,8 +11,6 @@ Along with the video of the presentation, this document will link to all the ass
 ### Powerpoint
 
 Download the English version of the Powerpoint Presentation from [aka.ms/AArxlgn](https://aka.ms/AArxlgn).
-Localized versions will be available soon.
-
 Speaker notes are available on each slide.
 
 ### Video recording
@@ -39,9 +37,9 @@ These are the demos that you may choose to do in the presentation. You may leave
 
 To be able to show the demos yourself, setup these three repositories:
 
-* **RAG on PostgreSQL**: Follow instructions in [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python)
 * **RAG on AI Search**: Follow deployment instructions in [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo), making sure to enable [the optional vision feature](https://github.com/Azure-Samples/azure-search-openai-demo/blob/main/docs/gpt4v.md)
 * **Python Notebooks**: Follow instructions in [rag-with-azure-ai-search-notebooks](https://github.com/Azure-Samples/rag-with-azure-ai-search-notebooks). Note that this repo assumes you've already setup azure-search-openai-demo.
+* **RAG on PostgreSQL**: Follow instructions in [rag-postgres-openai-python](https://github.com/Azure-Samples/rag-postgres-openai-python) - Not a part of the current slide, but was in the original version.
 
 ### Transcript
 
